@@ -47,7 +47,5 @@ The game runs in an infinite loop with a frame rate limit of 60 FPS.
 - **Collision Detection**: Ensures proper interaction with coins (score increase) and enemies (game over).
 - **UI Validation**: Limits menu navigation to valid options using arrow keys and Enter.
 
-Documentation for detailed class and function descriptions is available via Doxygen-generated files.
-
 ## Conclusions
 This project demonstrates the power of object-oriented programming in creating modular, extensible software. Inheritance and polymorphism enabled a flexible hierarchy of game objects, while the Strategy pattern allows for future enemy AI enhancements. Templates and operator overloading improved code reusability and usability. The separation of logic and display ensures maintainability, making this a solid foundation for further development.
